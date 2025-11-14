@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/mekashron-test/static/css/main.1c1f88ed.css",
-    "main.js": "/mekashron-test/static/js/main.ceb0122b.js",
+    "main.js": "/mekashron-test/static/js/main.dba33b6f.js",
     "static/js/453.00c9f271.chunk.js": "/mekashron-test/static/js/453.00c9f271.chunk.js",
     "index.html": "/mekashron-test/index.html",
     "main.1c1f88ed.css.map": "/mekashron-test/static/css/main.1c1f88ed.css.map",
-    "main.ceb0122b.js.map": "/mekashron-test/static/js/main.ceb0122b.js.map",
+    "main.dba33b6f.js.map": "/mekashron-test/static/js/main.dba33b6f.js.map",
     "453.00c9f271.chunk.js.map": "/mekashron-test/static/js/453.00c9f271.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1c1f88ed.css",
-    "static/js/main.ceb0122b.js"
+    "static/js/main.dba33b6f.js"
   ]
 }
